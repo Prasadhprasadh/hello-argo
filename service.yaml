@@ -9,7 +9,7 @@ spec:
     app: nginx-service-name1
 
   ports:
-    - port: 80
+    - port: 7000
       targetPort: 80
 
   type: NodePort
