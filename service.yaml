@@ -6,7 +6,7 @@ metadata:
 
 spec:
   selector:
-    app: nginx11
+    app: nginx-service-name1
 
   ports:
     - port: 80
